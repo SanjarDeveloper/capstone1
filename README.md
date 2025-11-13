@@ -5,6 +5,7 @@
 A beautiful, polished Streamlit app that turns a local smartphone sales dataset into an AI-powered question-answering interface. Ask natural‑language questions and the app translates them into safe SQL queries run against a local SQLite database — then shows results, explanations, and charts.
 
 ---
+# https://huggingface.co/spaces/SanjarBS/itpu-capstone1
 
 ## ✨ Highlights
 
@@ -87,4 +88,5 @@ The assistant will display the generated SQL, the results, and a short explanati
 <img width="1900" height="957" alt="4" src="https://github.com/user-attachments/assets/34a262cc-f82b-4b05-8721-8b7ddb0e2a7f" />
 
 <img width="1906" height="958" alt="5" src="https://github.com/user-attachments/assets/5c3bf4d1-c8b3-400b-b094-20bf044f88c2" />
+
 
